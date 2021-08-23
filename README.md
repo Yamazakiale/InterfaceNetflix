@@ -1,6 +1,6 @@
 Hi!👋😉
 
-# Este repositório traz o desafio feito pela Digital Inonvation One, onde tinhamos que:
+# Este repositório traz o desafio feito pela Digital Innovation One, com o professor Felipe Aguiar, onde tinhamos que:
 
 ## 📌Recriar a interface do principal site de streaming mundial, utilizando HTML5, CSS3 e JavaScript. 
 ## 📌Estruturar um layout utilizando CSS3 com containers e variáveis. 
